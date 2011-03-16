@@ -1,5 +1,4 @@
-Set Solver
-==========
+# Set Solver
 
 I got really frustrated playing this game, so I decided to solve it: http://setgame.ath.cx/
 
